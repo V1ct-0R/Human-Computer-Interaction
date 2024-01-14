@@ -1,0 +1,3 @@
+To run the project, first go into the server folder under lab2-image-retrieval, and download database folder which contains dataset folder and tags folder.
+Then run image_vectorizer.py, after that run rest-server.py, and the project can be visited on http://127.0.0.1:5000/.
+Also, after running rest-server.py, you can go into frontend folder and run command "npm run dev", and the project can be visited on http://localhost:8080/.
